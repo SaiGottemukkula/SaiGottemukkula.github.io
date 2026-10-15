@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/saigthefirst",
   },
   aboutMe:
-    "I am an undergraduate Computer Engineering student at the University of Massachusetts Amherst (Class of 2028) specializing in the intersection of embedded hardware engineering and rigorous software validation. My technical background bridges hands-on engineering initiative (multi-layer PCB design in KiCad, SMT soldering, microcontroller firmware architecture) with professional verification discipline gained through validating mission-critical Onboard Maintenance Systems (OMS) at Collins Aerospace. I thrive on 'work that has to work'—engineering complex, physical systems designed to operate flawlessly under real-world constraints.",
+    "I am an undergraduate Computer Engineering student at the University of Massachusetts Amherst (Class of 2028) specializing in the intersection of embedded hardware engineering and rigorous software validation. My technical background bridges hands-on engineering initiative (multi-layer PCB design in KiCad, SMT soldering, microcontroller firmware architecture) with professional verification discipline gained through validating mission-critical Onboard Maintenance Systems (OMS) at Collins Aerospace. I am passionate about hardware-software co-design—transforming complex schematics and code into durable physical devices engineered for strict real-world operating conditions.",
   skills: [
     "C/C++",
     "Python",
