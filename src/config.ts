@@ -29,7 +29,7 @@ export const siteConfig = {
     {
       name: "Custom Embedded Mechanical Keyboard (Full-Lifecycle Co-Design)",
       description:
-        "Engineered a custom 60% mechanical keyboard from first principles. Designed multi-layer schematics and routed PCBs in KiCad, hand-soldered SMT/through-hole components, developed RP2040 firmware in CircuitPython (KMK Framework), and resolved low-level Windows USB HID descriptor enumeration issues.",
+        "Engineered a custom mechanical keyboard from first principles. Designed multi-layer schematics and routed PCBs in KiCad, hand-soldered SMT/through-hole components, developed RP2040 firmware in CircuitPython (KMK Framework), and resolved low-level Windows USB HID descriptor enumeration issues.",
       link: "https://github.com/saigthefirst",
       skills: ["KiCad", "RP2040", "CircuitPython", "USB-HID", "PCB Design"],
     },
